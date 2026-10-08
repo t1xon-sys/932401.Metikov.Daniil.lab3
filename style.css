@@ -260,7 +260,6 @@ body {
 .project-card--2 { --card-img: url("image/LLMforES.jpg"); }
 .project-card--3 { --card-img: url("image/RAG for card.jpg"); }
 .project-card--4 { --card-img: url("image/AIAgent.jpg"); }
-.project-card--5 { --card-img: url("image/screen5.png"); }
 
 .project-icon {
     flex: 0 0 52px;
