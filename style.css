@@ -353,7 +353,7 @@ header img {
         flex-wrap: wrap;
         justify-content: center;
     }
-}
+
 
 .project-card {
         flex: 1 1 calc(50% - 8px);   
@@ -361,6 +361,7 @@ header img {
 
     .gallery {
         grid-template-columns: repeat(2, 1fr);   
+   }
 }
 @media (min-width: 992px) {
     .project-card {
